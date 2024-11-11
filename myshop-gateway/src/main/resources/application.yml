@@ -12,7 +12,6 @@ eureka:
   instance:
     prefer-ip-address: true
 #zuul的动态路由配置
-
 zuul:
   routes:
     myshop-user:

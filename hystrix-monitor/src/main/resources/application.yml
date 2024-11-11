@@ -5,7 +5,6 @@ spring:
   application:
     name: hystrix-monitor
 
-
 hystrix:
   dashboard:
     proxyStreamAllowList: "*"
