@@ -17,6 +17,7 @@ eureka:
   instance:
   # 优先使用该服务的IP地址注册到Eureka，在生产环境建议改为true
     prefer-ip-address: true
+
 feign:
   circuitbreaker:
     enable: true

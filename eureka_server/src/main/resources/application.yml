@@ -4,6 +4,7 @@ spring:
   application:
     name: eureka-server
     # 单机版配置
+
 eureka:
   client:
     fetch-registry: true # 是否需要从Eureka获取注册信息
